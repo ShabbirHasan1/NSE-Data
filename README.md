@@ -11,12 +11,13 @@
 ### NSE tick or Live data
 
   We are planning to upload Live NSE data (Nifty 50 stocks and 9 indices) soon. 
-  Date wise Index and stocks tick data are uploaded for few days. 
+  
+  > Date wise Index and stocks tick data are uploaded for few days. 
 
   https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data
 
-  Date wise - NSE Index [Nifty 50 and Bank Nifty] Live Tick data
-  
+  > Date wise - NSE Index [Nifty 50 and Bank Nifty] Live Tick data
+
   https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Index%20Tick%20Data
 
   
