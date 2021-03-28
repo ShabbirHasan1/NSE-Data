@@ -1,2 +1,2 @@
 # NSE-Data
-NSE Data is uploaded here
+Nifty 50 Index and stock data uploaded here
