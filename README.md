@@ -9,6 +9,6 @@
 ### NSE tick or Live data
 
   We are planning to upload Live NSE data (Nifty 50 stocks and 9 indices) soon. 
-
+  Date wise Index and stocks tick data are uploaded for few days. 
 
 Ref: [1] https://www.kaggle.com/hk7797/stock-market-india
