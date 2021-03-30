@@ -17,11 +17,11 @@
 
   Live tick data collected from NSE through Alice blue API. For each index and stocks part of Nifty 50, data are being collected and saved to csv files. This entire data collection architecture is running in AWS cloud to ensure high availability and maintain our setup to work without downtime. 
   
-  > Date wise Index and stocks tick data are uploaded for few days. 
+  > Stocks Live Tick data . 
 
   https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Stocks%20Tick%20Data
 
-  > Date wise - NSE Index [Nifty 50 and Bank Nifty] Live Tick data
+  > NSE Index [Nifty 50 and Bank Nifty] Live Tick data
 
   https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Index%20Tick%20Data
 
