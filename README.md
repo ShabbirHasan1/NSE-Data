@@ -19,7 +19,7 @@
   
   > Date wise Index and stocks tick data are uploaded for few days. 
 
-  https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data
+  https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Stocks%20Tick%20Data
 
   > Date wise - NSE Index [Nifty 50 and Bank Nifty] Live Tick data
 
