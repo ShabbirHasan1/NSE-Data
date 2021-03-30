@@ -11,6 +11,11 @@
 ### NSE tick or Live data
 
   We are planning to upload Live NSE data (Nifty 50 stocks and 9 indices) soon. 
+
+
+#### Live Data collection techniques
+
+  Live tick data collected from NSE through Alice blue API. For each index and stocks part of Nifty 50, data is collected and saved to csv files. This entire data collection architecture is running in AWS cloud to ensure high availability and mantain our setup to work without downtime. 
   
   > Date wise Index and stocks tick data are uploaded for few days. 
 
