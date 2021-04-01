@@ -21,13 +21,13 @@
 
     This folder contains Nifty 50 and Bank Nifty index live tick feed. 
 
-    https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Index%20Tick%20Data
+  https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Index%20Tick%20Data
   
   > Stocks Live Tick data . 
 
     This folder contains live tick feed for stocks in Nifty 50. 
 
-    https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Stocks%20Tick%20Data
+  https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Stocks%20Tick%20Data
 
   
 
