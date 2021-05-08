@@ -10,7 +10,7 @@
 
 ### NSE tick or Live data
 
-  We are planning to upload Live NSE data (Nifty 50 stocks and 9 indices) soon. 
+  Live NSE data (Nifty 50 stocks and 12 indices) tick data collected. 
 
 
 #### Live Data collection techniques
