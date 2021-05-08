@@ -38,57 +38,23 @@
 
     This folder contains live tick feed for stocks in Nifty 50. 
 
-    # ADANIPORTS  # ASIANPAINT  # AXISBANK
-    
-    
-    # BAJAJ-AUTO
-    # BAJAJFINSV
-    # BAJFINANCE
-    # BHARTIARTL
-    # BPCL
-    # BRITANNIA
-    # CIPLA
-    # COALINDIA
-    # DIVISLAB
-    # DRREDDY
-    # EICHERMOT
-    # GRASIM
-    # HCLTECH
-    # HDFC
-    # HDFCBANK
-    # HDFCLIFE
-    # HEROMOTOCO
-    # HINDALCO
-    # HINDUNILVR
-    # ICICIBANK
-    # INDUSINDBK
-    # INFY
-    # IOC
-    # ITC
-    # JSWSTEEL
-    # KOTAKBANK
-    # LT
-    # M&M
-    # MARUTI
-    # NESTLEIND
-    # NIFTY 50
-    # NTPC
-    # ONGC
-    # POWERGRID
-    # RELIANCE
-    # SBILIFE
-    # SBIN
-    # SHREECEM
-    # SUNPHARMA
-    # TATACONSUM
-    # TATAMOTORS
-    # TATASTEEL
-    # TCS
-    # TECHM
-    # TITAN
-    # ULTRACEMCO
-    # UPL
-    # WIPRO
+    # ADANIPORTS     # ASIANPAINT    # AXISBANK
+    # BAJAJ-AUTO     # BAJAJFINSV    # BAJFINANCE
+    # BHARTIARTL     # BPCL          # BRITANNIA
+    # CIPLA          # COALINDIA     # DIVISLAB
+    # DRREDDY        # EICHERMOT     # GRASIM
+    # HCLTECH        # HDFC          # HDFCBANK
+    # HDFCLIFE       # HEROMOTOCO    # HINDALCO
+    # HINDUNILVR     # ICICIBANK     # INDUSINDBK
+    # INFY           # IOC           # ITC
+    # JSWSTEEL       # KOTAKBANK     # LT
+    # M&M            # MARUTI        # NESTLEIND
+    # NTPC           # ONGC          # POWERGRID
+    # RELIANCE       # SBILIFE       # SBIN
+    # SHREECEM       # SUNPHARMA     # TATACONSUM
+    # TATAMOTORS     # TATASTEEL     # TCS
+    # TECHM          # TITAN         # ULTRACEMCO
+    # UPL            # WIPRO
 
 
   https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Stocks%20Tick%20Data
