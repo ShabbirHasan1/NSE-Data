@@ -1,6 +1,6 @@
 ## NSE-Data
 
-  Nifty 50 Index and stock data uploaded here.
+  Live Nifty 50 Indices and stocks data are collected and uploaded here.
   Both NSE Live tick data and minutes data for NSE indexes and NSE stocks are uploaded. 
   The soul purpose to store live data is for research works, building live trading agents to automate trade, building strategies for intraday trade, back-test strategies. 
 
